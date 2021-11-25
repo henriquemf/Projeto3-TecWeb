@@ -7,6 +7,10 @@
 ## Tema do Projeto 💡:
 Criar um Web Crawler de um site agregador de ofertas de jogos de videogames (https://www.promobit.com.br/promocoes/games/) e realizar uma análise desses dados.
 
+# Diagrama do Projeto:
+![DiagramaP3 drawio (1)](https://user-images.githubusercontent.com/62613979/143497671-1c0a17bb-81a9-4123-9ec0-a6ceb6aa501c.png)
+
+
 ## Bibliotecas/Linguagens utilizadas:
 - 🌐 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 📊 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
