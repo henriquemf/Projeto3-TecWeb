@@ -13,7 +13,8 @@ Criar um Web Crawler de um site agregador de ofertas de jogos de videogames (htt
 
 ## Bibliotecas/Linguagens utilizadas:
 - 🌐 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 📊 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+- :spider_web:![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+- 📊![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=jupyter)
 - 🧮 Scrapy
 
 ## Lista de tarefas:
