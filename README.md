@@ -13,14 +13,18 @@ Criar um Web Crawler de um site agregador de ofertas de jogos de videogames (htt
 - 🧮 Scrapy
 
 ## Lista de tarefas:
-
+- <img src="https://img.shields.io/static/v1?label=1ª Semana&message=Finalizado&color=success&style=flat-square"/>
 - [x] Compreender o que é Web Crawler
 - [x] Realizar Diagrama e Arquitetura do projeto
 - [x] Entender como iniciar o projeto e alinhar os objetivos 
 - [x] Aprender sobre o Scrapy e Selenium
+
+- <img src="https://img.shields.io/static/v1?label=2ª semana&message=Finalizado&color=success&style=flat-square"/>
 - [x] Entender como utilizar ambos e começar o arquivo Jupyter Notebook
 - [x] Começar a obtenção dos dados e iniciar a análise
 - [x] Continuar a análise de dados e checar resultados
-- [ ] Gerar gráficos e concluir a análise
+- [x] Gerar gráficos e concluir a análise
+
+- <img src="https://img.shields.io/static/v1?label=3ª semana&message=Em andamento&color=yellow&style=flat-square"/>
 - [ ] Retoques finais
 - [ ] Entrega do Projeto
