@@ -1,14 +1,14 @@
 [
-{"name": ["Jogo Cyberpunk 2077 - PC"], "store": ["gog.com"], "price": ["R$\u00a0199,90"], "discounted price": ["99,99"]},
-{"name": ["Jogo Red Dead Redemption II - PC"], "store": ["gamersgate.com"], "price": ["R$\u00a0239,00"], "discounted price": ["107,55"]},
-{"name": ["Jogo Empire of Sin - PC"], "store": ["Steam"], "price": ["R$\u00a075,49"], "discounted price": ["37,74"]},
-{"name": ["Jogo Just Cause 3 - PC Steam"], "store": ["Steam"], "price": ["R$\u00a042,99"], "discounted price": ["9,58"]},
-{"name": ["Jogo Space Engineers - PC Steam"], "store": ["Steam"], "price": ["R$\u00a037,99"], "discounted price": ["26,59"]},
-{"name": ["Jogo Call of Duty: Black Ops Cold War - PC Battle.net"], "store": ["battle.net"], "price": ["R$\u00a0229,90"], "discounted price": ["114,90"]},
-{"name": ["Jogo BioShock Infinite - PC Steam"], "store": ["Steam"], "price": ["R$\u00a089,99"], "discounted price": ["22,49"]},
-{"name": ["Jogo Deus Ex: Human Revolution Director's Cut - PC Steam"], "store": ["Steam"], "price": ["R$\u00a034,99"], "discounted price": ["5,24"]},
-{"name": ["Jogo Deus Ex: The Fall - PC Steam"], "store": ["Steam"], "price": ["R$\u00a016,99"], "discounted price": ["3,39"]},
-{"name": ["Jogo Deus Ex: Invisible War - PC Steam"], "store": ["Steam"], "price": ["R$\u00a012,99"], "discounted price": ["1,81"]},
-{"name": ["Jogo The Witch's House MV - PC"], "store": ["Steam"], "price": ["R$\u00a028,99"], "discounted price": ["14,49"]},
-{"name": ["Jogo Minoria - PC Steam"], "store": ["Steam"], "price": ["R$\u00a037,99"], "discounted price": ["18,99"]}
+{"name": ["Jogo TheHunter: Call of the Wild - PC"], "store": ["epicgames.com"], "price": [], "discounted price": ["de gra\u00e7a!"]},
+{"name": ["Jogo Diablo II: Resurrected - PC"], "store": ["battle.net"], "price": ["R$\u00a0179,90"], "discounted price": ["135,00"]},
+{"name": ["Jogo Persona 4 Golden - PC"], "store": ["Steam"], "price": ["R$\u00a067,99"], "discounted price": ["47,59"]},
+{"name": ["Jogo Hollow Knight - PC"], "store": ["Steam"], "price": ["R$\u00a027,99"], "discounted price": ["13,99"]},
+{"name": ["Jogo Poly Bridge - PC"], "store": ["Steam"], "price": ["R$\u00a020,69"], "discounted price": ["2,06"]},
+{"name": ["Jogo The Guild II: Renaissance - PC"], "store": ["Steam"], "price": ["R$\u00a016,99"], "discounted price": ["4,24"]},
+{"name": ["Jogo Left 4 Dead 2 - PC"], "store": ["Steam"], "price": ["R$\u00a020,69"], "discounted price": ["4,13"]},
+{"name": ["Jogo Assetto Corsa Ultimate Edition - PC"], "store": ["Steam"], "price": ["R$\u00a0164,98"], "discounted price": ["16,53"]},
+{"name": ["Jogo Left 4 Dead - PC"], "store": ["Steam"], "price": ["R$\u00a020,69"], "discounted price": ["4,13"]},
+{"name": ["Jogo Need for Speed Most Wanted - PC"], "store": ["Steam"], "price": ["R$\u00a059,00"], "discounted price": ["14,75"]},
+{"name": ["Jogo Loop Hero - PC Steam"], "store": ["Nuuvem"], "price": ["R$\u00a034,99"], "discounted price": ["8,74"]},
+{"name": ["Jogo Tom Clancy's Ghost Recon Breakpoint\u00a0- PC"], "store": ["Green Man Gaming"], "price": ["R$\u00a0179,00"], "discounted price": ["25,51"]}
 ]
