@@ -1,4 +1,4 @@
-# Projeto 3 de Tecnologias Web <img src="https://img.shields.io/static/v1?label=Projeto3&message=Em andamento&color=yellow&style=flat-square"/>
+# Projeto 3 de Tecnologias Web <img src="https://img.shields.io/static/v1?label=Projeto3&message=Em andamento&color=yellow&style=?style=for-the-badge"/>
 
 ## Integrantes do Grupo 🧑‍🤝‍🧑:
 - Guilherme Dantas Rameh
