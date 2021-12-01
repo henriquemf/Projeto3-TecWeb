@@ -1,4 +1,4 @@
-# Projeto 3 de Tecnologias Web <img src="https://img.shields.io/static/v1?label=Projeto3&message=Em andamento&color=success&style=?style=for-the-badge"/>
+# Projeto 3 de Tecnologias Web <img src="https://img.shields.io/static/v1?label=Projeto3&message=Finalizado&color=success&style=?style=for-the-badge"/>
 
 ## Integrantes do Grupo 🧑‍🤝‍🧑:
 - Guilherme Dantas Rameh
@@ -30,6 +30,6 @@ Criar um Web Crawler de um site agregador de ofertas de jogos de videogames (htt
 - [x] Continuar a análise de dados e checar resultados
 - [x] Gerar gráficos e concluir a análise
 
-- <img src="https://img.shields.io/static/v1?label=3ª semana&message=Em andamento&color=success&style=flat-square"/>
+- <img src="https://img.shields.io/static/v1?label=3ª semana&message=Finalizado&color=success&style=flat-square"/>
 - [x] Retoques finais
 - [x] Entrega do Projeto
